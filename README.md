@@ -2,8 +2,7 @@
 O objetivo do algoritmo é agrupar um conjunto de pontos em K grupos, onde K é um número pré-definido pelo usuário.
 
 A classe possui os seguintes métodos estáticos:
-
-set_cores(Num_de_cores): define o número de cores que serão utilizadas para colorir os pontos nos gráficos gerados.
+*set_cores(Num_de_cores):* define o número de cores que serão utilizadas para colorir os pontos nos gráficos gerados.
 
 criar_pontos(K): gera aleatoriamente K pontos dentro de um plano de tamanho fixo, e retorna uma lista contendo esses pontos.
 
